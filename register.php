@@ -2,7 +2,7 @@
 header('Content-Type: application/json'); //Set content type of the response to JSON
 
 $host = 'localhost'; //The hostname of the MySQL server
-$dbname 'user_management'; //The name of the database
+$dbname = 'user_management'; //The name of the database
 $username = 'root'; //The MySQL username (replace with actual username)
 $password = ''; //The MySQL password (replace with your actual password)
 
